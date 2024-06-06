@@ -2,7 +2,7 @@ project_name: "explore-assistant"
 
 application: explore_assistant {
   label: "Explore Assistant"
-  url: "https://bdd3-106-206-82-107.ngrok-free.app/bundle"
+  url: "https://localhost:8080/bundle"
   # file: "bundle.js"
   entitlements: {
     core_api_methods: ["lookml_model_explore","create_sql_query","run_sql_query","run_query","create_query"]
