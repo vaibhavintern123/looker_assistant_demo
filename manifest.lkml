@@ -2,7 +2,7 @@ project_name: "explore-assistant"
 
 application: explore_assistant {
   label: "Explore Assistant"
-  url: "https://8080-cs-902555656675-default.cs-asia-southeast1-yelo.cloudshell.dev/bundle.js"
+  url: "https://drive.google.com/file/d/1sRtIvBEIta_dHIEpOUJmIDGQurqQ95KL/view"
   # file: "bundle.js"
   entitlements: {
     core_api_methods: ["lookml_model_explore","create_sql_query","run_sql_query","run_query","create_query"]
